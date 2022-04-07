@@ -1,4 +1,3 @@
-
 ![](https://img.shields.io/badge/Morse-Decorder-brown)
 # Morse Decoder
 > This project uses Ruby to decode morse code.
@@ -11,8 +10,8 @@
 To get a local copy up and running follow these simple example steps.
 Clone the project by using terminal:
 ```
-git clone https://github.com/Yerimah/morse-message-decoder.git
-ruby main.rb
+git clone git@github.com:ahmedtaa/morse-decode.git
+ruby decoder.rb
 ```
 ### Prerequisites
 -Ruby
@@ -29,7 +28,6 @@ ruby main.rb
 - GitHub: [@BenjaminSemah](https://github.com/BenjaminSemah)
 - Twitter: [@BenjaminSemah](https://twitter.com/BenjaminSemah)
 - LinkedIn: [@BenjaminSemah](https://www.linkedin.com/in/benjaminsemah/)
-
 
 ## 🤝 Contributing
 
