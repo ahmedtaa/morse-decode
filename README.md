@@ -1,10 +1,7 @@
-![](https://img.shields.io/badge/Morse-Decorder-brown)
+![](https://img.shields.io/badge/Morse-Decoder-brown)
+
 # Morse Decoder
 > This project uses Ruby to decode morse code.
-
-## Built With
-- Ruby
-- Git
 
 ## Getting Started
 To get a local copy up and running follow these simple example steps.
@@ -33,16 +30,12 @@ ruby decoder.rb
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/ahmedtaa/morse-decode/issues).
+Feel free to check the [issues page](https://github.com/microverseinc/readme-template/issues).
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
-
-- Microverse
-
 ## 📝 License
 
-This project is [MIT](./MIT.md) licensed.
+This project is [MIT](https://github.com/ahmedtaa/morse-decode/blob/dev/MIT.md) licensed.
