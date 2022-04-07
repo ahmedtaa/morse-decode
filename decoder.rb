@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 MORSE_MAP = {
   '.-' => 'A',
   '-...' => 'B',
@@ -31,7 +33,7 @@ def decode_char(character)
   MORSE_MAP[character]
 end
 
-puts decode_char(".-")
+puts decode_char('.-')
 
 def decode_word(word)
   msg_word = ''
@@ -51,6 +53,6 @@ def decode(message)
   end
   msg.strip
 end
-puts decode("-- -.--   -. .- -- .")
+puts decode('-- -.--   -. .- -- .')
 
 puts decode('.-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...')
